@@ -1,1 +1,1 @@
-This repo is for learning unsupervised learning techniques, experimenting the techniques on varied datasets and getting to do some cool and fun stuff in the process.
+This repo is for refreshing my knowledge of unsupervised learning techniques by experimenting with the techniques on varied datasets and getting to do some cool and fun stuff in the process. Let's get started!!..
